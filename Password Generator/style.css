@@ -1,0 +1,31 @@
+*{
+     margin: 0;padding: 0;
+     box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width : 100%;
+    background-color: rgb(19, 19, 103);
+    color: white;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;margin-top: 200px;
+    font-size: xx-large;
+}
+.container{
+    display:flex;
+    padding-top: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.container input{
+    height:40px;
+    width:220px;
+
+}
+ .container #Button{
+    height: 40px;
+    width: 80px;
+}
